@@ -1,0 +1,116 @@
+[
+    {
+      "codigo": "1",
+      "cidade": "São Paulo",
+      "titulo": "A Terra da Garoa!",
+      "descricao": "Fundada em 25 de janeiro de 1554 a cidade tem hoje cerca de 12 milhões de habitantes e é considerada o centro financeiro do Brasil e aqui vão 3 dicas de roteiros obrigatórios para aqueles que passam pela capital paulista",
+      "roteiros": [
+        {
+          "rota": "A",
+          "regiao": "Avenida Paulista",
+          "locais": [
+            "MASP",
+            "Parque Trianon",
+            "Rua Augusta"
+          ],
+          "qnt_locais": 3
+        },
+        {
+          "rota": "B",
+          "regiao": "Centro",
+          "locais": [
+            "Catedral da Sé",
+            "Pátio do Colégio",
+            "Rua Augusta"
+          ],
+          "qnt_locais": 3
+        },
+        {
+          "rota": "C",
+          "regiao": "Vila Madalena",
+          "locais": [
+            "Beco do Batman",
+            "Feirinha da Benedito Calixto",
+            "Livraria da Vila"
+          ],
+          "qnt_locais": 3
+        }
+      ]
+    },
+    {
+      "codigo": "2",
+      "cidade": "Las Vegas",
+      "titulo": "Viva Las Vegas!",
+      "descricao": "A cidade mais populosa e mais densamente povoada do estado de Nevada, Las Vegas foi fundada em 1905 e é considerada uma cidade, oficialmente, desde 1911 e conta com mais de meio milhão de habitantes. Venha conhecer a capital dos jogos de azar!",
+      "roteiros": [
+        {
+          "rota": "A",
+          "regiao": "Las Vegas Boulevard South",
+          "locais": [
+            "Fonte do Bellagio",
+            "Principais Cassinos",
+            "Madame Tussauds"
+          ],
+          "qnt_locais": 3
+        },
+        {
+          "rota": "B",
+          "regiao": "Downtown",
+          "locais": [
+            "Fremont",
+            "Las Vegas Art Museum",
+            "Museu nacional do Crime Organizado"
+          ],
+          "qnt_locais": 3
+        },
+        {
+          "rota": "C",
+          "regiao": "Las Vegas Boulevard North",
+          "locais": [
+            "Outlet Premium North",
+            "Stratosphere",
+            "Apple Fashion Sho"
+          ],
+          "qnt_locais": 3
+        }
+      ]
+    },
+    {
+      "codigo": "3",
+      "cidade": "Moscou",
+      "titulo": "Privet!",
+      "descricao": "A capital Russa fica situada às margens do Rio Moscou e apesar de ser a cidade mais cosmopolita da Rússia, conta com grande resguardo de sua história soviética",
+      "roteiros": [
+        {
+          "rota": "A",
+          "regiao": "Praça Vermelha",
+          "locais": [
+            "Museu Histórico do Estado",
+            "Catedral de São Basílico",
+            "Mausoléu de Lênin"
+          ],
+          "qnt_locais": 3
+        },
+        {
+          "rota": "B",
+          "regiao": "Centro",
+          "locais": [
+            "Teatro Bolshoi",
+            "Monumento a Karl Marx",
+            "Rio Moscou"
+          ],
+          "qnt_locais": 3
+        },
+        {
+          "rota": "C",
+          "regiao": "Obras pela cidade",
+          "locais": [
+            "Metrô de Moscou",
+            "As Sete Irmãs",
+            "Moscow Leningradsky Railway Station"
+          ],
+          "qnt_locais": 3
+        }
+      ]
+    }
+  ]
